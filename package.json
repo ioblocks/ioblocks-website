@@ -1,8 +1,8 @@
 {
   "name": "gatsby-starter-dimension",
-  "description": "Gatsby Starter - Dimension by HTML5 UP",
+  "description": "Internet of Blockchains website",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Gabriele Rigo",
   "dependencies": {
     "gatsby": "^1.9.235",
     "gatsby-link": "^1.6.39",
@@ -18,15 +18,22 @@
     "gatsby-transformer-sharp": "^1.6.22",
     "lodash": "^4.17.4"
   },
-  "homepage": "https://github.com/ChangoMan/gatsby-starter-dimension",
+  "homepage": "https://github.com/ioblocks/ioblocks-website",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "blockchain",
+    "blockchains",
+    "internetofblockchains",
+    "internet of blockchains",
+    "value 3.0",
+    "value3.0",
+    "valu3.0"
   ],
-  "license": "MIT",
+  "license": "CC",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChangoMan/gatsby-starter-dimension.git"
+    "url": "https://github.com/ioblocks/ioblocks-website.git"
   },
   "scripts": {
     "dev": "gatsby develop",
