@@ -29,7 +29,7 @@ class Main extends React.Component {
           <h2 className="major">History</h2>
           <span className="image main"><img src={pic02} alt="" /></span>
           <p>
-              Bitcoin is the first application of blockchain, enabling trustless exchange of cryptocurrency. Ethereum provided a framework for creating decentralized applications, providing the perfect framework for creating the new backbone of financial markets. Today, corporates are creating their own private blockchains as a consequence of their current compliance requirements.
+              Bitcoin is the first application of blockchain, enabling trustless exchange of cryptocurrency. Ethereum provided a framework for creating decentralized applications, providing the perfect environment for creating the new backbone of financial systems. Today, corporates are creating their own private blockchains as a consequence of their current compliance requirements.
               All these different realities can cohexist in an interconnected world.
           </p>
           <p>
