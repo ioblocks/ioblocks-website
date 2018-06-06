@@ -29,11 +29,11 @@ class Main extends React.Component {
           <h2 className="major">History</h2>
           <span className="image main"><img src={pic02} alt="" /></span>
           <p>
-              Blockchain was the first application of blockchain, enabling trustless exchange of Bitcoins and provided a perfect solutions for being able to move outside the system. Ethereum provided a framework for creating decentralized applications, providing the perfect framework for creating a new backbone for financial markets. Today corporates are creating their own private blockchains and are worried about compliance.
+              Bitcoin is the first application of blockchain, enabling trustless exchange of cryptocurrency. Ethereum provided a framework for creating decentralized applications, providing the perfect framework for creating the new backbone of financial markets. Today, corporates are creating their own private blockchains as a consequence of their current compliance requirements.
               All these different realities can cohexist in an interconnected world.
           </p>
           <p>
-              If you think about the internet in the early days, many corporates were reluctant at the idea of developing on the open internet, because of security and uncertainty.
+              If you think about the internet in the early days, many corporates were reluctant at the idea of developing on the open internet, because of security concerns and uncertainty.
               Today, we are testifying the same with blockchains. It is absolutely clear that the path going forward is towards interconnected public blockchains,
               where private blockchains execute some very specific tasks which are otherwise inefficient to execute on public blockchains.
               On top of this, public blockchains will scale themselves by design upgrades, and this will make them even more suitable for executing complex tasks.
