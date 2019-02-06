@@ -60,7 +60,7 @@ class Main extends React.Component {
           <h2 className="major">Social</h2>
           <ul className="icons">
             <li><a href="https://twitter.com/rigoblock" className="icon fa-twitter" target="_blank"><span className="label">Twitter</span></a></li>
-            <li><a href="https://www.facebook.com/RigoBlocks/" className="icon fa-facebook" target="_blank"><span className="label">Facebook</span></a></li>
+            <li><a href="https://www.facebook.com/RigoBlockProtocol/" className="icon fa-facebook" target="_blank"><span className="label">Facebook</span></a></li>
             <li><a href="https://www.instagram.com/rigoblockofficial/" className="icon fa-instagram" target="_blank"><span className="label">Instagram</span></a></li>
             <li><a href="https://github.com/rigoblock" className="icon fa-github" target="_blank"><span className="label">GitHub</span></a></li>
           </ul>
